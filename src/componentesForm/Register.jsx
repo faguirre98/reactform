@@ -47,7 +47,7 @@ function Register() {
             type="email"
             value={email}
             onChange={(e) => setEmail(e.target.value)}
-            placeholder="tucorreo@ejemplo.com"
+            placeholder="pepito123@gmail.com"
             required
           />
         </label>
